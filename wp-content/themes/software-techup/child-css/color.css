@@ -1,0 +1,21 @@
+.widget_search .wp-block-search .wp-block-search__label:after, .sidebar .sidebar-widget .wp-block-group .wp-block-group__inner-container h2:after, .title-sep2::after{
+	background-color: #ff5164 !important;
+}
+
+.widget_block .wp-block-search__button{
+	background: #ff5164 none repeat scroll 0 0 !important;
+}
+
+.sidebar-widget a:hover, .sidebar-widget a:focus{
+	color: #ff5164 !important;
+}
+
+.footer .footer-widget .wp-block-group h2:after, .foot-title h4::after{
+	background-color: #ff5164 !important;
+}
+
+.widget_tag_cloud .wp-block-tag-cloud a:hover, .widget_tag_cloud .wp-block-tag-cloud a:focus, .widget_tag_cloud .tagcloud a:hover, .widget_tag_cloud .tagcloud a:focus{
+	background: #ff5164 !important;
+	color: #fff !important;
+	border-color: #ff5164 !important;
+}s
